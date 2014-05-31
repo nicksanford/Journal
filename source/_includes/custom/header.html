@@ -1,0 +1,20 @@
+{% if site.gravatar_header %}
+  <img src="{% gravatar_image 160 %}" alt="Gravatar of {{ site.author}} " title="Gravatar of {{ site.author }}" class="profilepic" />
+{% endif %}
+<hgroup>
+  <h1><a href="{{ root_url }}/">{{ site.title }}</a></h1>
+  {% if site.subtitle %}
+    <h2 class="subtitle">{{ site.subtitle }}</h2>
+  {% endif %}
+  <section class="nav_links">
+  {% if site.about%}
+    <a href={{site.about}}>About</a>
+  {% endif%}
+  {% if site.projects %}
+    <a href={{site.projects}}>Projects</a>
+  {% endif%}
+  {% if site.contact %}
+    <a href={{site.contact}}>Contact</a>
+  {% endif%}
+  </section>
+</hgroup>
