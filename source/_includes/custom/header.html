@@ -1,5 +1,5 @@
 {% if site.gravatar_header %}
-  <img src="{% gravatar_image 160 %}" alt="Gravatar of {{ site.author}} " title="Gravatar of {{ site.author }}" class="profilepic" />
+<a href="{{ root_url}}/"><img src="{% gravatar_image 160 %}" alt="Gravatar of {{ site.author}} " title="Gravatar of {{ site.author }}" class="profilepic"></a>
 {% endif %}
 <hgroup>
   <h1><a href="{{ root_url }}/">{{ site.title }}</a></h1>
@@ -11,10 +11,11 @@
     <a href={{site.about}}>About</a>
   {% endif%}
   {% if site.projects %}
+  <!--
+    Will add back when I finish projects page
     <a href={{site.projects}}>Projects</a>
+    -->
   {% endif%}
-  {% if site.contact %}
-    <a href={{site.contact}}>Contact</a>
-  {% endif%}
+    <a href="mailto:nicholascsanford@gmail.com">Contact</a>
   </section>
 </hgroup>

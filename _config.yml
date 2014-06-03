@@ -2,17 +2,18 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: localhost:4000
+url: http://nicksanford.github.io
 title: I'm Nick Sanford
-contact: /contact
+#contact: /contact
 about: /about
-projects: /projects
+#projects: /projects
 subtitle: |
           Pythonista and Rubyist at <a href="http://www.thre3d.com">thre3d.com</a>
           Language Lover and Hutong Dweller in Beijing.
 author: Nick Sanford (傅有嘉)
 simple_search: https://www.google.com/search
-description: This is a description of things
+description: Nick Sanford Blog
+keywords: Nick Sanford, rails, Ruby On Rails, Ruby, python, programming, coding, postgesql, postgres, 3d printing, 3d print, stl, 3d model
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -32,7 +33,7 @@ email:
 
 # If publishing to a subdirectory as in http://site.com/project set 'root: /project'
 root: /
-permalink: /blog/:year/:month/:day/:title/
+permalink: /post/:title
 source: source
 destination: public
 plugins: plugins
