@@ -1,8 +1,8 @@
 ---
 layout: page
 title: "projects"
-comments: true
+comments: false
 sharing: true
-footer: true
 ---
-Dis mah prodjemecs
+###**[3D Printable QR Code Generator](http://getmystl.com)**
+###**['Bring Me': The Micro-Delivery App For Beijing](http://getbringme.com)**

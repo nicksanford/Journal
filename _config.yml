@@ -6,7 +6,8 @@ url: http://nicksanford.github.io
 title: I'm Nick Sanford
 #contact: /contact
 about: /about
-#projects: /projects
+projects: /projects
+contact: /contact
 subtitle: |
           Pythonista and Rubyist at <a href="http://www.thre3d.com">thre3d.com</a>
           Language Lover and Hutong Dweller in Beijing.
@@ -75,7 +76,7 @@ github_show_profile_link: true
 github_skip_forks: true
 
 # Twitter
-twitter_user:
+twitter_user: https://twitter.com/sanford_nick
 twitter_tweet_button: true
 
 # Google +1
@@ -97,7 +98,7 @@ delicious_count: 3
 
 # Disqus Comments
 disqus_short_name:
-disqus_show_comment_count: false
+disqus_show_comment_count: true
 
 # Google Analytics
 google_analytics_tracking_id: UA-52654100-1
