@@ -4,6 +4,29 @@ title: "about"
 comments: false
 sharing: false
 ---
+My name is Nick Sanford. I love building service oriented, easily testable, web
+applications / APIs that stick to the UNIX philosophy of doing one job and doing
+it well.
+
+I love learning about Functional Programming and building stuff in Haskell.
+I try to integrate the dicipline and abstractions I have learned from ML-style FP in my
+OO Ruby, Python, and JavaScript code to produce composable, dependable, and modular
+software.
+
+I have built both monolythinc Rails apps as well service oriented Sinatra, Flask,
+vanilla Python, and Node.js cloud applications. Checkout my [projects](/projects)
+and and see what I have done!
+
+I recently moved to NYC from Austin after living and working as a developer in Beijing for a year
+and am actively looking for employment at a NYC based software company in search of an
+energetic engineer who is eager to learn new development methods / technologies and commited
+to code quality.
+
+If you think I would make a strong addition to your team feel free to checkout my
+[resume](/resume/NickSanfordsResume.docx) and drop me an [email](mailto:nicholascsanford@gmail.com).
+
+
+<!--
 I began intensively studying computer science and
 programing in May of 2013 after completing my honors thesis for my major in
 Asian Studies Language and Literature from University of Texas at Austin.
@@ -37,17 +60,4 @@ helped implement their eCommerce sales platform, and built data visualization to
 for their massive 3d printing technology database. The job has given me valuable experience
 in the software industry and more than anything else taught me how to learn the
 skills I need to know to implement whatever the job requires.
-
-Throughout this entire process, I have been 100% self-taught.  I have followed
-the amazing tutorials by [Schneems](http://www.schneems.com/ut-rails/) who teaches
-Rails at my university, [Michael Hartl](http://www.railstutorial.org/book), and
-am currently reading Russ Olsen's [Eloquent Ruby](http://books.google.com.sg/books?id=-s2xL0pVsLUC&source=gbs_slider_cls_metadata_7_mylibrary&redir_esc=y).
-
-Recently I have been interested in taking an algorithms and data-structures
-course. After discovering that most of these courses are taught understandably
-in either C, C++, or Java, I decided to first learn C in order to get the most
-out of the course.  I just started taking Zed Shaw's [Learn C the Hard Way](http://c.learncodethehardway.org/book/).
-
-When I get the time, I also have Haskell high on my "things I want to study" list.
-At the moment however I am focused on learning more about Ruby, Rails, Python,
-Flask, Sinatra, Javascript, algorithms / data-structures, and C.
+-->
